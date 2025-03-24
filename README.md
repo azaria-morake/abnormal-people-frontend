@@ -88,7 +88,7 @@ const Button = styled.button`
 `;
 
 // Usage
-<Button>Click Me</Button>
+<Button>Home</Button>
 ```
 ## Project Structure
 ```
