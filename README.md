@@ -26,7 +26,7 @@
 1. **Clone repository**
 ```bash
 git clone https://github.com/azaria-morake/abnormal-people-frontend.git
-cd abnormal-people-frontend
+cd abnormal-people-frontend/love-abnormal-frontend/
 ```
 
 ## Install Dependencies  
@@ -37,7 +37,9 @@ This will install all required packages, including:
 - `framer-motion`  
 
 ```bash
-npm install
+npm install styled-components
+npm install react-router-dom
+npm install framer-motion
 ```
 
 ## Start Development Server
