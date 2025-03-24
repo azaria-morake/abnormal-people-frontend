@@ -25,7 +25,7 @@
 
 1. **Clone repository**
 ```bash
-git clone https://github.com/your-username/abnormal-people-frontend.git
+git clone https://github.com/azaria-morake/abnormal-people-frontend.git
 cd abnormal-people-frontend
 ```
 
